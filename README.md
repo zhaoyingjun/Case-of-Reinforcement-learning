@@ -27,8 +27,7 @@
 如果是使用Anaconda创建的环境，则需要使用pythonw 来执行代码文件，如 pythonw dqn.py。<br/>
 效果1：
 
- <iframe height=120 width=600 src="img/start.gif"></iframe>
- ![img]https://github.com/zhaoyingjun/Case-of-Reinforcement-learning/blob/master/img/start.gif
+ ![img](https://github.com/zhaoyingjun/Case-of-Reinforcement-learning/blob/master/img/start.gif)
 
 效果2：训练状态<br/>
 
