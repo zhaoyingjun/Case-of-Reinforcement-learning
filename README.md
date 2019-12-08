@@ -27,11 +27,11 @@
 如果是使用Anaconda创建的环境，则需要使用pythonw 来执行代码文件，如 pythonw dqn.py。<br/>
 效果1：
 
- ![img](https://github.com/zhaoyingjun/Case-of-Reinforcement-learning/blob/master/img/start.gif)
+ ![imge](https://github.com/zhaoyingjun/Case-of-Reinforcement-learning/blob/master/img/start.gif)
 
 效果2：训练状态<br/>
 
-  <iframe height=300 width=700 src="img/train.gif"></iframe>
+![image](https://github.com/zhaoyingjun/Case-of-Reinforcement-learning/blob/master/img/train.gif)
 
 效果3：工作状态<br/>
-   <iframe height=500 width=700 src="img/work.gif">
+![image](https://github.com/zhaoyingjun/Case-of-Reinforcement-learning/blob/master/img/work.gif)
