@@ -28,6 +28,7 @@
 效果1：
 
  <iframe height=120 width=600 src="img/start.gif"></iframe>
+ ![img]https://github.com/zhaoyingjun/Case-of-Reinforcement-learning/blob/master/img/start.gif
 
 效果2：训练状态<br/>
 
