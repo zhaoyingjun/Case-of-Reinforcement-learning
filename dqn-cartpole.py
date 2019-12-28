@@ -1,3 +1,4 @@
+#encoding:utf-8
 import tensorflow as tf
 import matplotlib
 matplotlib.use("macOSX")#在使用macOSX系统时需要该行
